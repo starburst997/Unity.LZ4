@@ -1,0 +1,14 @@
+{
+    "name": "JD.LZ4",
+    "rootNamespace": "K4os.Compression.LZ4",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

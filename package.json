@@ -1,0 +1,15 @@
+{
+  "name": "jd.boiv.in.lz4",
+  "version": "1.0.0",
+  "displayName": "LZ4",
+  "description": "Compress bytes with LZ4",
+  "dependencies": {
+    
+ },
+ "keywords": [
+    "compress", "lz4", "compression", "bytes"
+  ],
+  "author": {
+    "name": "Milosz Krajewski"
+  }
+}
